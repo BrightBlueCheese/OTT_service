@@ -1,0 +1,24 @@
+- 폴더이름
+ : 설명
+
+- genre_analysis_png
+ : 각 장르에 대한 성별, 연령 별 평균 평점
+
+- genre_score_ages_png
+ : 각 연령대에 대한 장르 별 평균 평점
+
+- genre_score_genders_png
+ : 각 성별에 대한 장르 별 평균 평점
+
+- other_png
+ : 모든 환경에서 동일한 그래프들
+
+- ott_ages_png
+ : 각 연령대에 대한 남녀별 ott 이용시간대
+
+- ott_total_png
+ : 연령대 구분 없는 남녀별 ott 이용시간대
+
+- 데이터 분석 파트 git은
+같은 team6의 data-analysis 그룹으로..
+https://kdt-gitlab.elice.io/003-part3-ottservice/team6/data-analysis
