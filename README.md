@@ -1,6 +1,6 @@
 # Youngmin Lee took Data Analysis Part
 
-# (SIXMEN))
+# (SIXMEN)
 - 코로나로 지친 사람들을 위한 맞춤형 비대면 극장 커뮤니티 서비스
 
 
